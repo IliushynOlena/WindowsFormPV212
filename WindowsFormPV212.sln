@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_RunButton", "02_RunButto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_BaseControls", "03_BaseControls\03_BaseControls.csproj", "{2F5591FD-A943-4332-9C82-C9E7CA65F7FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ControlsEnableButton", "04_ControlsEnableButton\04_ControlsEnableButton.csproj", "{0792FBA1-0302-41C1-9882-AB5FA495F45A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ControlsEnableButton", "04_ControlsEnableButton\04_ControlsEnableButton.csproj", "{0792FBA1-0302-41C1-9882-AB5FA495F45A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ProgressBarTrackBar", "05_ProgressBarTrackBar\05_ProgressBarTrackBar.csproj", "{8080B2F0-02FE-4277-961B-71A0AC12E688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_ProgressBarTrackBar", "05_ProgressBarTrackBar\05_ProgressBarTrackBar.csproj", "{8080B2F0-02FE-4277-961B-71A0AC12E688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ComboBoxProject", "06_ComboBoxProject\06_ComboBoxProject.csproj", "{9D0CDF75-026D-45DB-9049-73EE160B7218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ListBox", "07_ListBox\07_ListBox.csproj", "{19354907-0B29-4163-B468-0EA578C88086}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{8080B2F0-02FE-4277-961B-71A0AC12E688}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8080B2F0-02FE-4277-961B-71A0AC12E688}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8080B2F0-02FE-4277-961B-71A0AC12E688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0CDF75-026D-45DB-9049-73EE160B7218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0CDF75-026D-45DB-9049-73EE160B7218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0CDF75-026D-45DB-9049-73EE160B7218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0CDF75-026D-45DB-9049-73EE160B7218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19354907-0B29-4163-B468-0EA578C88086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19354907-0B29-4163-B468-0EA578C88086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19354907-0B29-4163-B468-0EA578C88086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19354907-0B29-4163-B468-0EA578C88086}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
