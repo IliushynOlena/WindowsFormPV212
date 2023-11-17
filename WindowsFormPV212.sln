@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ControlsEnableButton", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_ProgressBarTrackBar", "05_ProgressBarTrackBar\05_ProgressBarTrackBar.csproj", "{8080B2F0-02FE-4277-961B-71A0AC12E688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ComboBoxProject", "06_ComboBoxProject\06_ComboBoxProject.csproj", "{9D0CDF75-026D-45DB-9049-73EE160B7218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_ComboBoxProject", "06_ComboBoxProject\06_ComboBoxProject.csproj", "{9D0CDF75-026D-45DB-9049-73EE160B7218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ListBox", "07_ListBox\07_ListBox.csproj", "{19354907-0B29-4163-B468-0EA578C88086}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_ListBox", "07_ListBox\07_ListBox.csproj", "{19354907-0B29-4163-B468-0EA578C88086}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_AdditionalForm", "08_AdditionalForm\08_AdditionalForm.csproj", "{72F8241A-25FD-46D3-A85A-9037D935CEEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Dialogs", "09_Dialogs\09_Dialogs.csproj", "{17FB5548-E0CD-4E3B-B4D3-99BC5E016819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_RichTextBox", "10_RichTextBox\10_RichTextBox.csproj", "{ABFD635A-159A-4685-A211-2861281100D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{19354907-0B29-4163-B468-0EA578C88086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19354907-0B29-4163-B468-0EA578C88086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19354907-0B29-4163-B468-0EA578C88086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F8241A-25FD-46D3-A85A-9037D935CEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F8241A-25FD-46D3-A85A-9037D935CEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F8241A-25FD-46D3-A85A-9037D935CEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F8241A-25FD-46D3-A85A-9037D935CEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FB5548-E0CD-4E3B-B4D3-99BC5E016819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FB5548-E0CD-4E3B-B4D3-99BC5E016819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FB5548-E0CD-4E3B-B4D3-99BC5E016819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FB5548-E0CD-4E3B-B4D3-99BC5E016819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFD635A-159A-4685-A211-2861281100D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFD635A-159A-4685-A211-2861281100D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFD635A-159A-4685-A211-2861281100D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFD635A-159A-4685-A211-2861281100D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
