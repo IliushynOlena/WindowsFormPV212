@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_ListBox", "07_ListBox\07
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_AdditionalForm", "08_AdditionalForm\08_AdditionalForm.csproj", "{72F8241A-25FD-46D3-A85A-9037D935CEEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Dialogs", "09_Dialogs\09_Dialogs.csproj", "{17FB5548-E0CD-4E3B-B4D3-99BC5E016819}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_Dialogs", "09_Dialogs\09_Dialogs.csproj", "{17FB5548-E0CD-4E3B-B4D3-99BC5E016819}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_RichTextBox", "10_RichTextBox\10_RichTextBox.csproj", "{ABFD635A-159A-4685-A211-2861281100D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_RichTextBox", "10_RichTextBox\10_RichTextBox.csproj", "{ABFD635A-159A-4685-A211-2861281100D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_TreeViewListView", "11_TreeViewListView\11_TreeViewListView.csproj", "{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{ABFD635A-159A-4685-A211-2861281100D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABFD635A-159A-4685-A211-2861281100D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABFD635A-159A-4685-A211-2861281100D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

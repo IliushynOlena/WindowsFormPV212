@@ -30,6 +30,8 @@ namespace _09_Dialogs
                 backColorButton.Font = selected;
                 fontBtn.Font = selected;
             }
+           
+
         }
 
         private void openFileBtn_Click(object sender, EventArgs e)
