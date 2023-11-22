@@ -23,7 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_Dialogs", "09_Dialogs\09
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_RichTextBox", "10_RichTextBox\10_RichTextBox.csproj", "{ABFD635A-159A-4685-A211-2861281100D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_TreeViewListView", "11_TreeViewListView\11_TreeViewListView.csproj", "{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_TreeViewListView", "11_TreeViewListView\11_TreeViewListView.csproj", "{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_TabControl", "12_TabControl\12_TabControl.csproj", "{E6401BD0-9805-4346-A687-EF10DDEC4341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_DragDrop", "13_DragDrop\13_DragDrop.csproj", "{6F7DC60B-AC67-4C25-883F-4D53C544A101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18CB392E-42F4-4AAA-9B44-0C32C6E0C62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6401BD0-9805-4346-A687-EF10DDEC4341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6401BD0-9805-4346-A687-EF10DDEC4341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6401BD0-9805-4346-A687-EF10DDEC4341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6401BD0-9805-4346-A687-EF10DDEC4341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7DC60B-AC67-4C25-883F-4D53C544A101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7DC60B-AC67-4C25-883F-4D53C544A101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7DC60B-AC67-4C25-883F-4D53C544A101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7DC60B-AC67-4C25-883F-4D53C544A101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
