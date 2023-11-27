@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_TabControl", "12_TabCont
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_DragDrop", "13_DragDrop\13_DragDrop.csproj", "{6F7DC60B-AC67-4C25-883F-4D53C544A101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Graphics", "14_Graphics\14_Graphics.csproj", "{9878A85F-A027-42A8-A398-A2A6DF976768}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_Graphics", "14_Graphics\14_Graphics.csproj", "{9878A85F-A027-42A8-A398-A2A6DF976768}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Paint", "15_Paint\15_Paint.csproj", "{8D91C0F3-74A1-4E49-93F5-E4526D733230}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15_Paint", "15_Paint\15_Paint.csproj", "{8D91C0F3-74A1-4E49-93F5-E4526D733230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Notifications", "16_Notifications\16_Notifications.csproj", "{421C85B0-CD3F-4F45-A808-BF9DAE49AD40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{8D91C0F3-74A1-4E49-93F5-E4526D733230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D91C0F3-74A1-4E49-93F5-E4526D733230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D91C0F3-74A1-4E49-93F5-E4526D733230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421C85B0-CD3F-4F45-A808-BF9DAE49AD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421C85B0-CD3F-4F45-A808-BF9DAE49AD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421C85B0-CD3F-4F45-A808-BF9DAE49AD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421C85B0-CD3F-4F45-A808-BF9DAE49AD40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
